@@ -1,0 +1,11 @@
+.star-table tbody tr.star-item:hover {
+    cursor: pointer;
+    background-color: #333;
+    color: #fff;
+}
+
+.star-table tbody tr.star-item.favorited {
+
+    background-color: #FFAB95;
+    color: #000;
+}
