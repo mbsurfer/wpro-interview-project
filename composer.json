@@ -1,0 +1,13 @@
+{
+    "name": "mbsurfer/wpro-interview-project",
+    "authors": [
+        {
+            "name": "Ryan Neldner",
+            "email": "ryan@wpromote.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~6.0",
+        "twbs/bootstrap": "^3.3"
+    }
+}

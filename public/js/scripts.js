@@ -1,0 +1,5 @@
+$(function() {
+    // Document is ready
+
+
+});
